@@ -27,6 +27,13 @@ Custom CSS reset
 
 - [GitHub repo](https://github.com/kvoncode/custom-css-reset)
 
+### codeforces
+
+Solutions to Codeforces tasks
+
+- [GitHub repo](https://github.com/kvoncode/codeforces)
+
+
 
 ## Public contributions
 
