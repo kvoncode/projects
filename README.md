@@ -7,7 +7,7 @@
 
 ### css-image-grid
 
-![css-grid](img/css-grid.png)
+![Screenshoot](img/css-grid.png)
 
 Responsive CSS Grid with images
 
@@ -17,7 +17,7 @@ Responsive CSS Grid with images
 
 ### fcc-tribute-page
 
-![css-grid](img/elon.png)
+![Screenshoot](img/elon.png)
 
 
 Responsive Tribute page to Elon Musk
@@ -28,13 +28,33 @@ Responsive Tribute page to Elon Musk
 
 ### horizontal-bar-chart
 
-![css-grid](img/bar-chart.png)
+![Screenshoot](img/bar-chart.png)
 
 
 Bar chart with D3.js
 
 - [GitHub repo](https://github.com/kvoncode/horizontal-bar-chart)
 - [GitHub pages](https://kvoncode.github.io/horizontal-bar-chart/)
+
+### fcc-survey-form
+
+![Screenshoot](img/form.png)
+
+
+Free Code Camp Survey Form
+
+- [GitHub repo](https://github.com/kvoncode/fcc-survey-form)
+- [GitHub pages](https://kvoncode.github.io/fcc-survey-form/)
+
+### expanding-styled-input
+
+![Screenshoot](img/expand.png)
+
+
+- [GitHub repo](https://github.com/kvoncode/expanding-styled-input)
+- [GitHub pages](https://kvoncode.github.io/expanding-styled-input/)
+
+
 
 ## Technichal
 
@@ -69,6 +89,9 @@ Template config files for Babel, Webpack, React.js, etc.
 Free Code Camp Javascript algorithms
 
 - [GitHub repo](https://github.com/kvoncode/fcc-javascript)
+
+
+
 
 
 ## Public contributions
