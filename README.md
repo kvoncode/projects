@@ -29,9 +29,21 @@ Custom CSS reset
 
 ### codeforces
 
-Solutions to Codeforces tasks
+Solutions to Codeforces tasks (C++)
 
 - [GitHub repo](https://github.com/kvoncode/codeforces)
+
+### js-algorithms
+
+Algorithms in JS
+
+- [GitHub repo](https://github.com/kvoncode/js-algorithms)
+
+### template-files
+
+Template config files for Babel, Webpack, React.js, etc.
+
+- [GitHub repo](https://github.com/kvoncode/template-files)
 
 
 
