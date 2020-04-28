@@ -13,7 +13,7 @@ Responsive CSS Grid with images
 
 - [GitHub repo](https://github.com/kvoncode/css-image-grid)
 - [GitHub pages](https://kvoncode.github.io/css-image-grid/)
-- [Youtube demo](https://www.youtube.com/watch?v=xx-Kf77F-v8)
+- [Youtube demo](https://youtu.be/xdxTXP1x_Uo)
 
 
 
