@@ -21,6 +21,12 @@ Responsive CSS Grid with images
 
 `Technical` projects are important as they basis for visual projects
 
+### custom-css-reset
+
+Custom CSS reset
+
+- [GitHub repo](https://github.com/kvoncode/custom-css-reset)
+
 
 ## Public contributions
 
