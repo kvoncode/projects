@@ -24,7 +24,7 @@ Responsive Tribute page to Elon Musk
 
 - [GitHub repo](https://github.com/kvoncode/fcc-tribute-page)
 - [GitHub pages](https://kvoncode.github.io/fcc-tribute-page/)
-- [Youtube demo](https://youtu.be/xdxTXP1x_Uo)
+- [Youtube demo](https://youtu.be/8j7-l2hCNR8)
 
 ## Technichal
 
