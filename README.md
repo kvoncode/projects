@@ -26,9 +26,19 @@ Responsive Tribute page to Elon Musk
 - [GitHub pages](https://kvoncode.github.io/fcc-tribute-page/)
 - [Youtube demo](https://youtu.be/8j7-l2hCNR8)
 
+### horizontal-bar-chart
+
+![css-grid](img/bar-chart.png)
+
+
+Bar chart with D3.js
+
+- [GitHub repo](https://github.com/kvoncode/horizontal-bar-chart)
+- [GitHub pages](https://kvoncode.github.io/horizontal-bar-chart/)
+
 ## Technichal
 
-`Technical` projects are important as they basis for visual projects
+`Technical` projects are important as they are the basis for visual projects
 
 ### custom-css-reset
 
