@@ -104,3 +104,20 @@ Free Code Camp Javascript algorithms
 ## Public contributions
 
 `Public contributions` are contribution to GitHub repositories, Mozilla Developers Network docs, etc. 
+
+### GitHub contributions
+
+![Screenshoot](img/github-contribution.png)
+
+Documentation contributions to projects like
+
+- [@javascript-tutorial](https://javascript.info/)
+- [@zeit](https://github.com/kvoncode?tab=overview&org=zeit)
+- [@yarnpkg](https://yarnpkg.com/)
+- [@graphql](https://graphql.org/)
+- [@sass](https://sass-lang.com/)
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+
+### Mozilla Developers Network
+
+![Screenshoot](img/mdn.png)
