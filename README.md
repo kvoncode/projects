@@ -97,8 +97,21 @@ Free Code Camp Javascript algorithms
 
 - [GitHub repo](https://github.com/kvoncode/fcc-javascript)
 
+### mongodb-admin
 
+MongoDB administartion related commands and configs
 
+- [GitHub repo](https://github.com/kvoncode/mongodb-admin)
+
+### mongodb-aggregation-pipeline
+
+- [GitHub repo](https://github.com/kvoncode/mongodb-aggregation-pipeline)
+
+### bin
+
+`bash` scripts for automation
+
+- [GitHub repo](https://github.com/kvoncode/bin)
 
 
 ## Public contributions
