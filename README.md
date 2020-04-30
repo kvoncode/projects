@@ -63,6 +63,24 @@ Free Code Camp Survey Form
 - [GitHub repo](https://github.com/kvoncode/materialize-autocomplete)
 - [GitHub pages](https://kvoncode.github.io/materialize-autocomplete/)
 
+### nextjs-glitch
+
+
+Example `Next.js` and `Glitch` integration
+
+- [GitHub repo](https://github.com/kvoncode/nextjs-glitch)
+- [Glitch Demo](https://kvoncode-nextjs-glitch.glitch.me/)
+
+### nextjs-mongodb
+
+![Screenshoot](img/register.png)
+
+
+`Next.js` and `MongoDB` 
+
+- [GitHub repo](https://github.com/kvoncode/nextjs-mongodb)
+- [Glitch Demo](https://kvoncode-nextjs-mongodb.glitch.me/)
+
 ## Technichal
 
 `Technical` projects are important as they are the basis for visual projects
