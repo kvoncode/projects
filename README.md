@@ -7,7 +7,13 @@
 
 ![Screenshoot](img/todo.png)
 
-Stack: Vue.js, Vuex, materialize.css
+#### Stack
+
+- Vue.js
+- Vuex
+- materialize.css
+
+#### Links
 
 - [GitHub repo](https://github.com/kvoncode/vuecli-todoapp)
 - [Glitch Demo](https://kvoncode-vuecli-todo-dist.glitch.me/)
@@ -21,6 +27,13 @@ Stack: Vue.js, Vuex, materialize.css
 
 Responsive Tribute page to Elon Musk
 
+#### Stack
+
+- React.js
+
+#### Links
+
+
 - [GitHub repo](https://github.com/kvoncode/fcc-tribute-page)
 - [GitHub pages](https://kvoncode.github.io/fcc-tribute-page/)
 - [Youtube demo](https://youtu.be/8j7-l2hCNR8)
@@ -29,13 +42,17 @@ Responsive Tribute page to Elon Musk
 
 ![Screenshoot](img/register.png)
 
+#### Stack
 
-`Next.js` and `MongoDB` 
+- Next.js
+- MongoDB 
+
+#### Links
 
 - [GitHub repo](https://github.com/kvoncode/nextjs-mongodb)
 - [Glitch Demo](https://kvoncode-nextjs-mongodb.glitch.me/)
 
-## Other
+## Other notable projects
 
 ### mongodb-admin
 
