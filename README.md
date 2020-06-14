@@ -1,19 +1,18 @@
 # Projects
 
 
-## Visual
+## 3 best projects
 
-`Visual` projects can be represented as web site, compared to `technical` projects which is not visually represented
+### Todo app 
 
-### css-image-grid
+![Screenshoot](img/todo.png)
 
-![Screenshoot](img/css-grid.png)
+Stack: Vue.js, Vuex, materialize.css
 
-Responsive CSS Grid with images
+- [GitHub repo](https://github.com/kvoncode/vuecli-todoapp)
+- [Glitch Demo](https://kvoncode-vuecli-todo-dist.glitch.me/)
+- [Medium article](https://medium.com/@kvoncode/todo-app-with-vue-js-3da41b8e7e25)
 
-- [GitHub repo](https://github.com/kvoncode/css-image-grid)
-- [GitHub pages](https://kvoncode.github.io/css-image-grid/)
-- [Youtube demo](https://youtu.be/xdxTXP1x_Uo)
 
 ### fcc-tribute-page
 
@@ -26,51 +25,6 @@ Responsive Tribute page to Elon Musk
 - [GitHub pages](https://kvoncode.github.io/fcc-tribute-page/)
 - [Youtube demo](https://youtu.be/8j7-l2hCNR8)
 
-### horizontal-bar-chart
-
-![Screenshoot](img/bar-chart.png)
-
-
-Bar chart with D3.js
-
-- [GitHub repo](https://github.com/kvoncode/horizontal-bar-chart)
-- [GitHub pages](https://kvoncode.github.io/horizontal-bar-chart/)
-
-### fcc-survey-form
-
-![Screenshoot](img/form.png)
-
-
-Free Code Camp Survey Form
-
-- [GitHub repo](https://github.com/kvoncode/fcc-survey-form)
-- [GitHub pages](https://kvoncode.github.io/fcc-survey-form/)
-
-### expanding-styled-input
-
-![Screenshoot](img/expand.png)
-
-
-- [GitHub repo](https://github.com/kvoncode/expanding-styled-input)
-- [GitHub pages](https://kvoncode.github.io/expanding-styled-input/)
-
-### materialize-autocomplete
-
-
-![Screenshoot](img/materialize.png)
-
-
-- [GitHub repo](https://github.com/kvoncode/materialize-autocomplete)
-- [GitHub pages](https://kvoncode.github.io/materialize-autocomplete/)
-
-### nextjs-glitch
-
-
-Example `Next.js` and `Glitch` integration
-
-- [GitHub repo](https://github.com/kvoncode/nextjs-glitch)
-- [Glitch Demo](https://kvoncode-nextjs-glitch.glitch.me/)
-
 ### nextjs-mongodb
 
 ![Screenshoot](img/register.png)
@@ -81,39 +35,7 @@ Example `Next.js` and `Glitch` integration
 - [GitHub repo](https://github.com/kvoncode/nextjs-mongodb)
 - [Glitch Demo](https://kvoncode-nextjs-mongodb.glitch.me/)
 
-## Technichal
-
-`Technical` projects are important as they are the basis for visual projects
-
-### custom-css-reset
-
-Custom CSS reset
-
-- [GitHub repo](https://github.com/kvoncode/custom-css-reset)
-
-### codeforces
-
-Solutions to Codeforces tasks (C++)
-
-- [GitHub repo](https://github.com/kvoncode/codeforces)
-
-### js-algorithms
-
-Algorithms in JS
-
-- [GitHub repo](https://github.com/kvoncode/js-algorithms)
-
-### template-files
-
-Template config files for Babel, Webpack, React.js, etc.
-
-- [GitHub repo](https://github.com/kvoncode/template-files)
-
-### fcc-javascript
-
-Free Code Camp Javascript algorithms
-
-- [GitHub repo](https://github.com/kvoncode/fcc-javascript)
+## Other
 
 ### mongodb-admin
 
