@@ -1,7 +1,7 @@
 # Projects
 
 
-## 3 best projects
+## Top 3 projects
 
 ### Todo app 
 
@@ -50,7 +50,7 @@ Responsive Tribute page to Elon Musk
 #### Links
 
 - [GitHub repo](https://github.com/kvoncode/nextjs-mongodb)
-- [Glitch Demo](https://kvoncode-nextjs-mongodb.glitch.me/)
+- [Glitch Demo](https://kvoncode-nextjs-mongodb.glitch.me/) Demo broken due to `glitch.com`
 
 ## Other notable projects
 
